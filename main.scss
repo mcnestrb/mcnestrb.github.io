@@ -1,10 +1,8 @@
 .page {
   margin: 0 50px;
 
-  @media only screen and (min-width: var(--min-desktop-width)){
-    & {
+  @media only screen and (min-width: var(--min-desktop-width)) {
       margin: 0 100px;
-    }
   }
 }
 
