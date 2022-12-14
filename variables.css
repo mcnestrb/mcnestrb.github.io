@@ -1,0 +1,8 @@
+:root {
+  /* colours */
+  --background-color: rgb(200, 200, 200);
+
+  /* media widths */
+  --min-desktop-width: 768px;
+  --max-mobile-width: 767px;
+}

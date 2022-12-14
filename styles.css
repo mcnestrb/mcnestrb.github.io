@@ -1,0 +1,11 @@
+.page {
+  margin: 0 50px;
+
+  @media only screen (min-width: var(--min-desktop-width)){
+    margin: 0 100px;
+  }
+}
+
+.grid {
+  display: grid;
+}
